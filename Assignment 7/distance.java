@@ -7,6 +7,7 @@
 
 // -Write a program that imports this package and uses class to find the sum 
 // of two distances.
+
 package user.own.pack;
 public class distance{
 	int feet;
